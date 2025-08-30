@@ -1,5 +1,4 @@
-# AI-Sustainable-Agriculture-Preprocessing
-This repository host code for AI applications for sustainable agriculture, including crop monitoring, pest detection, and yield prediction, to help farmers optimize resources and minimize environmental impact.
+
 # AI for Sustainable Agriculture — Crop Recommendation using ML
 
 This project uses AI/ML techniques to help farmers by recommending suitable crops based on soil and climate conditions.  
