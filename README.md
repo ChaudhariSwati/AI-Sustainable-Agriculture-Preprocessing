@@ -1,3 +1,4 @@
+
 # AI for Sustainable Agriculture — Crop Recommendation using ML
 
 This project uses AI/ML techniques to help farmers by recommending suitable crops based on soil and climate conditions.  
